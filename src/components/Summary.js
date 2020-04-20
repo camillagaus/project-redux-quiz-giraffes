@@ -4,7 +4,7 @@ import { RestartButton } from 'components/RestartButton'
 
 export const Summary = () => {
   return (
-    <div>
+    <div className="summary">
       <Score />
       <RestartButton />
     </div>

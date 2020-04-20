@@ -64,3 +64,10 @@ p {
 .green {
   background: lightgreen;
 }
+
+.summary {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
